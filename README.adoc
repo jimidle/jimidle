@@ -1,1 +1,11 @@
-# A Profile for Jim
+= A Profile for Jim
+
+image::https://raw.githubusercontent.com/jimidle/jimidle/master/assets/[]
+
+== Languages
+
+== Technologies
+
+== Full Stack Projects
+
+
