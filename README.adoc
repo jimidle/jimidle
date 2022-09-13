@@ -1,7 +1,5 @@
 = A Profile for Jim
 
-image::https://github.com/jimidle/jimidle/blob/cfdcaa1eee31de4c86e6516e5fd3fee55e7a9887/assets/name.gif[]
-
 == Languages
 
 == Technologies
