@@ -27,6 +27,11 @@ code generator and runtime for `C`, for version 3 of the toolset. I now work on 
   - https://github.com/antlr/antlr4[The ANTLR Project]
   - https://github.com/antlr/antlr4/tree/master/runtime/Go/antlr/v4[The Go runtime for ANTLR4]
 
+=== JWZ - An algorithm for threading email
+
+JWZ was the original algorithm for arranging email into threads. It was originally devised by Jamie Zawinski, and
+https://github.com/gatherstars-com/jwz[this] is my improved implementation in Go.
+
 == Languages
 
 Go, C, C++, Java, Shell, Python, SQL, XML, Shell, Assembly language, Typescript...
