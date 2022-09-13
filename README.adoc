@@ -1,9 +1,44 @@
 = A Profile for Jim
+jimi@idle.ws
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+A professional commercial programmer for many years.
+
+I have been a member of open source projects since before Github was a thing. I have accumulated many skills in backend
+and technical programming. From the arcane to the very popular. As the advert goes, "You hum it, I'll play it!"
+
+Currently most work is in Go, though I can work in any popular language as well as some I invented :)
+
+== Current Opensource
+
+=== ANTLR Parser Generator
+
+ANTLR (_ANother Tool for Language Recognition_) is a powerful parser generator for reading, processing, executing, or
+translating structured text or binary files. It's widely used to build languages, tools, and frameworks. I wrote the
+code generator and runtime for `C`, for version 3 of the toolset. I now work on the code generator and runtime for
+`Go` for version 4.
+
+  - https://github.com/antlr/antlr4[The ANTLR Project]
+  - https://github.com/antlr/antlr4/tree/master/runtime/Go/antlr/v4[The Go runtime for ANTLR4]
 
 == Languages
 
+Go, C, C++, Java, Shell, Python, SQL, XML, Shell, Assembly language, Typescript
+
 == Technologies
 
-== Full Stack Projects
+  - _*AWS*_ Lambda, Serverless, S3, DynamoDB, SQS, SNS, CloudWatch, IAM, API Gateway, ECS, ECR, EKS, Aurora, Neptune,
+Architecture as code, CDK, scalability, metrics...
+  - Database engines, database design...
+  - Compilers, parsers, codegen, interpreters, VM/byte code...
+  - DSL design, DSL implementation, DSL execution...
 
+== Football (Soccer)
 
+NOTE: Support for Leeds United AFC is non-negotiable.
