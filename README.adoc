@@ -13,9 +13,9 @@ A professional commercial programmer for many years.
 I have been a member of open source projects since before Github was a thing. I have accumulated many skills in backend
 and technical programming. From the arcane to the very popular. As the advert goes, "You hum it, I'll play it!"
 
-Currently most work is in Go, though I can work in any popular language as well as some I invented :)
+Currently most work is in Go, though I can work in any popular language as well as some I invented.
 
-== Current Opensource
+== My Current Opensource Work
 
 === ANTLR Parser Generator
 
@@ -29,7 +29,7 @@ code generator and runtime for `C`, for version 3 of the toolset. I now work on 
 
 === JWZ - An algorithm for threading email
 
-JWZ was the original algorithm for arranging email into threads. It was originally devised by Jamie Zawinski, and
+JWZ was the original algorithm in Mozilla, for arranging email into threads. It was originally devised by Jamie Zawinski, and
 https://github.com/gatherstars-com/jwz[this] is my improved implementation in Go.
 
 == Languages
