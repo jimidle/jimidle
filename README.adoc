@@ -11,9 +11,9 @@ endif::[]
 A professional programmer for many years.
 
 I have been a member of open source projects since before Github was a thing. I have accumulated many skills in backend
-and technical programming. From the arcane to the very popular. As the advert goes, "You hum it, I'll play it!"
+and technical programming. From the arcane to the very popular.
 
-Currently most work is in Go, though I can work in any popular language.
+Currently most work is in Go, though I can work in just about any computer language.
 
 == My Current Opensource Work
 
