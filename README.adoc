@@ -15,6 +15,12 @@ and technical programming. From the arcane to the very popular.
 
 Currently most work is in Go, though I can work in just about any computer language.
 
+== Current Work
+
+Working at Databricks Labs via Toptal. The project https://github.com/databrickslabs/remorph?tab=readme-ov-file#transpile[remoprh]
+is an ANTLR/Scala/Java based project that transforms many dialects of SQL into Databricks SQL for Big Data analysis and ML
+projects.
+
 == My Current Opensource Work
 
 === ANTLR Parser Generator
